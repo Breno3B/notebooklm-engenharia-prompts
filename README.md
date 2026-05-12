@@ -1,5 +1,3 @@
-# miniguia-estudos-notebooklm
-
 # Miniguia de Estudos com NotebookLM: Engenharia de Prompts para Aprendizagem com IA
 
 ## 📌 Contexto do Projeto
